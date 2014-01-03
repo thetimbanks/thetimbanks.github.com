@@ -33,21 +33,19 @@ I can't recall the amount of times I have loaded a web page in mobile Safari and
 
 After I got the update installed I loaded up Safari to check out the new find feature.  I loaded up the Apple website and started poking around to try and find the feature.  The first button I tried was the middle button on the bottom bar that looks like a box with an arrow coming out of it.  It was the wrong choice, but it did show me where the "Print" button was.  I then tried clicking each button including the URL and Google search and still couldn't find where the feature was.
 
-[caption id="attachment_146" align="aligncenter" width="200" caption="The new bar above the keyboard"][![The new bar above the keyboard](http://thetimbanks.com/wp-content/uploads/2010/11/photo-1-200x300.png)](http://thetimbanks.com/wp-content/uploads/2010/11/photo-1.png)[/caption]
-
-
+<img src="http://thetimbanks.com/wp-content/uploads/2010/11/photo-1.png" title="The new bar above the keyboard" />
 
 I then opened the Google search to see if anyone else is having problems.  As soon as I started typing a new bar appeared right above the keyboard saying how many matches there were on the current page.  Apparently you have to use the Google search feature to find items on the current page.  This to me doesn't make sense at all.  How is that intuitive?  I click "Google" to find what is on the page?  Weird.
 
-[caption id="attachment_147" align="aligncenter" width="200" caption="Scrolling down past the Google results"][![Scrolling down past the Google results](http://thetimbanks.com/wp-content/uploads/2010/11/photo-2-200x300.png)](http://thetimbanks.com/wp-content/uploads/2010/11/photo-2.png)[/caption]
+
+<ing src="http://thetimbanks.com/wp-content/uploads/2010/11/photo-2.png" title="Scrolling down past the Google results" />
 
 
 
 After typing in the term to find on the page, you then have to scroll down past all the results that Google returned.  Again, this seems a little out of place.  Finally, clicking on the "Find ****" line opens up the interface for the find feature.  The term you are searching for is highlighted similar to how the desktop version of Safari does it.  The term is highlighted in a yellow bubble.  A new toolbar at the bottom allows advancing through the matches and there is a "Done" button for when you are finished.
 
-[caption id="attachment_148" align="aligncenter" width="200" caption="Search term is highlighted and bar at the bottom to advance matches"][![Search term is highlighted and bar at the bottom to advance matches](http://thetimbanks.com/wp-content/uploads/2010/11/photo-3-200x300.png)](http://thetimbanks.com/wp-content/uploads/2010/11/photo-3.png)[/caption]
 
-
+<img src="http://thetimbanks.com/wp-content/uploads/2010/11/photo-3-200x300.png" title="Search term is highlighted and bar at the bottom to advance matches" />
 
 Overall I am not a big fan of how the feature is implemented.  I feel Apple could have done a better job with the user experience.
 
