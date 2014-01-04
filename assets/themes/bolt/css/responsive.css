@@ -1,0 +1,35 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+
+	.navbar-brand {
+		font-size: 20px;
+		padding-top: 15px;
+	}
+
+	#hello h1, #hello h2 {
+		font-size: 20px;
+	}
+
+	#green h2 {
+		font-size: 20px;
+	}
+
+	#green p {
+		font-size: 15px;
+	}
+
+	#social .col-md-2 {
+		padding: 10px;
+		float: left;
+	}
+
+	#social i {
+		font-size: 30px;
+	}
+
+	#f p {
+		text-align: center;
+	}
+}
